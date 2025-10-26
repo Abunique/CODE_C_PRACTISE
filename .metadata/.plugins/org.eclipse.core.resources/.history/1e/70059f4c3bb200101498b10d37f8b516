@@ -1,0 +1,29 @@
+/*
+ * main.c
+ *
+ *  Created on: Oct 26, 2025
+ *      Author: abinaya.s
+ */
+
+
+#include<stdio.h>
+
+char *buff ="consistency is the key. time and energy are the most important wealth we have in hand";
+
+typedef char line[20];
+
+line line[20];
+
+void string_op()
+{
+int linecount, wordcount;
+
+}
+
+
+int main()
+{
+	printf("test");
+	getchar();
+	return 0;
+}
